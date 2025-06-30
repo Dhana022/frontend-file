@@ -17,6 +17,5 @@ I'm a B.Tech student with a keen interest in software engineering and web design
 ## 🛠️ Skills & Tools
 
 - Languages: *(add your languages, e.g., HTML, CSS, JavaScript, Python, etc.)*
-- Frameworks & Libraries: *(add frameworks/libraries, e.g., React, Bootstrap, etc.)*
-- Tools: *(add tools, e.g., Git, VS Code, Figma, etc.)*
+- Frameworks & Libraries: *(add frameworks/libraries, e.g., React, Bootstrap, etc.)
 
